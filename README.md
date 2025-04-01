@@ -91,9 +91,8 @@ The dashboard can connect to your e-commerce platform in several ways:
 
 For questions or assistance with the FRINGUANT Impact Dashboard:
 
-- Email: support@fringuant.com
-- Documentation: [docs.fringuant.com](https://docs.fringuant.com)
-- Support portal: [support.fringuant.com](https://support.fringuant.com)
+- Email: sameerm14021999@gmail.com
+
 
 ## Future Development
 
